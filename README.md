@@ -4,16 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=atharvs930931&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-A passionate **Software Developer & Python Enthusiast** focused on building full-stack web applications, exploring backend architectures, and solving challenging algorithmic problems.
+A dedicated **Software Developer & Python Enthusiast** focused on building full-stack web applications, sustainable tech solutions, and solving algorithmic problems.
 
 ---
 
-### 🚀 About Me
+### 🚀 Featured Projects
 
-- 🔭 Currently developing **[SkillUpPathways](https://github.com/atharvs930931/SkillUpPathways)** — an ed-tech platform designed for career roadmaps and skill tracking.
-- 🌱 Actively practicing **Data Structures & Algorithms in Python** and building robust **Django** web applications.
-- 💡 Interested in Cloud Technologies, AI Prototyping, and Backend Engineering.
-- 💬 Ask me about: **Python, Django, Web Development, and Git**.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[SkillUpPathways](https://github.com/atharvs930931/SkillUpPathways)** | Career roadmap, resource curation, and student skill-tracking web platform. | `Django` `Python` `SQLite` `Bootstrap` |
+| **[Ewaste_Portal](https://github.com/atharvs930931/Ewaste_Portal)** | An environmental initiative platform to facilitate responsible e-waste disposal, tracking, and collection awareness. | `Python` `Web Dev` `Database` |
+| **Python DSA & Problem Solving** | Repository of optimized solutions covering core data structures, algorithms, and logic building. | `Python` `Algorithms` `Data Structures` |
 
 ---
 
